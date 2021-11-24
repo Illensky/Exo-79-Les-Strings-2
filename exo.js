@@ -18,5 +18,4 @@ for (let i = 0; i < pomme.length ; i++) {
     document.querySelector("#one-line").innerHTML += pomme[i] + "<br>"
 }
 
-
 console.log(pomme.lastIndexOf('m'));
